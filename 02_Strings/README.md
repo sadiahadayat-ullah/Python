@@ -37,4 +37,4 @@ This repository contains beginner-friendly Python programs that demonstrate stri
 
 **Sadia Hadayat-Ullah**
 
-GitHub: https://github.com/sadiacode
+GitHub: https://github.com/sadiahadayat-ullah
