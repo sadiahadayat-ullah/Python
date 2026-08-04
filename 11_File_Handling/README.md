@@ -34,4 +34,4 @@ This repository contains beginner-friendly Python programs that demonstrate file
 
 **Sadia Hadayat-Ullah**
 
-GitHub: https://github.com/sadiacode
+GitHub: https://github.com/sadiahadayat-ullah
