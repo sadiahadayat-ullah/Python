@@ -59,7 +59,7 @@ Python/
 Aspiring AI & Agentic AI Engineer  
 Learning Python and building projects every day.
 
-GitHub: [@sadiacode](https://github.com/sadiacode)
+GitHub: [@sadiahadayat-ullah](https://github.com/sadiahadayat-ullah)
 
 ---
 
