@@ -18,7 +18,7 @@ Welcome to my Python learning repository. This repository contains my Python pra
 | 10 | Modules & Packages | Built-in modules and package usage |
 | 11 | File Handling | Reading, writing, updating, and managing files |
 | 12 | Exception Handling | try, except, else, finally, error handling |
-
+| 13 | OOP                 |Classes, objects, constructors, inheritance, polymorphism, encapsulation, abstraction, and dunder methods |
 ## 📂 Repository Structure
 
 
@@ -36,6 +36,7 @@ Python/
 ├── 10_Modules_Packages/
 ├── 11_File_Handling/
 └── 12_Exception_Handling/
+└── 13_OOP/
 
 
 ## 🛠️ Tools Used
