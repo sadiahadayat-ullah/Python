@@ -19,6 +19,9 @@ Welcome to my Python learning repository. This repository contains my Python pra
 | 11 | File Handling | Reading, writing, updating, and managing files |
 | 12 | Exception Handling | try, except, else, finally, error handling |
 | 13 | OOP                 |Classes, objects, constructors, inheritance, polymorphism, encapsulation, abstraction, and dunder methods |
+| 14  | Iterators          | Iterables, iterators, iter(), next(), StopIteration, and custom iterators |
+| 15  | Generators         | Generator functions, yield, generator expressions, and lazy evaluation |
+
 ## 📂 Repository Structure
 
 
@@ -37,7 +40,8 @@ Python/
 ├── 11_File_Handling/
 └── 12_Exception_Handling/
 └── 13_OOP/
-
+├── 14_Iterators/
+└── 15_Generators/
 
 ## 🛠️ Tools Used
 
