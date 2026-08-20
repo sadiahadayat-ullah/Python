@@ -21,7 +21,7 @@ Welcome to my Python learning repository. This repository contains my Python pra
 | 13 | OOP                 |Classes, objects, constructors, inheritance, polymorphism, encapsulation, abstraction, and dunder methods |
 | 14  | Iterators          | Iterables, iterators, iter(), next(), StopIteration, and custom iterators |
 | 15  | Generators         | Generator functions, yield, generator expressions, and lazy evaluation |
-
+| 16  | Decorators         | Function decorators, *args, **kwargs, multiple decorators, functools.wraps, and practical decorators |
 ## 📂 Repository Structure
 
 
@@ -42,7 +42,7 @@ Python/
 └── 13_OOP/
 ├── 14_Iterators/
 └── 15_Generators/
-
+└── 16_Decorators/
 ## 🛠️ Tools Used
 
 - Python
