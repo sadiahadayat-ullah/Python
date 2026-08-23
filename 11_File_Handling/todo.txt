@@ -1,3 +1,0 @@
-Learn Python
-Practice Git
-Upload to GitHub

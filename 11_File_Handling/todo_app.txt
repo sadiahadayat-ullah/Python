@@ -1,4 +1,0 @@
-Learn Python
-Practice Git
-Upload to GitHub
-Complete Python Day 11
