@@ -22,6 +22,8 @@ Welcome to my Python learning repository. This repository contains my Python pra
 | 14  | Iterators          | Iterables, iterators, iter(), next(), StopIteration, and custom iterators |
 | 15  | Generators         | Generator functions, yield, generator expressions, and lazy evaluation |
 | 16  | Decorators         | Function decorators, *args, **kwargs, multiple decorators, functools.wraps, and practical decorators |
+| 17  | Regular Expressions | Regex basics, `re` module, searching, matching, finding, splitting, substitution, character classes, and quantifiers |
+| 18  | JSON                 | JSON data types, `dumps()`, `loads()`, `dump()`, `load()`, nested JSON, lists, dictionaries, updating, searching, and JSON exceptions |
 ## 📂 Repository Structure
 
 
@@ -43,6 +45,8 @@ Python/
 ├── 14_Iterators/
 └── 15_Generators/
 └── 16_Decorators/
+├── 17_Regular_Expressions/
+└── 18_JSON/
 ## 🛠️ Tools Used
 
 - Python
