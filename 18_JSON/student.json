@@ -1,0 +1,12 @@
+{
+    "name": "Ali",
+    "age": 20,
+    "course": "Database",
+    "skills": [
+        "Python",
+        "Linux",
+        "C++",
+        "Java",
+        "Java"
+    ]
+}
