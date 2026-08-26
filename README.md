@@ -24,6 +24,8 @@ Welcome to my Python learning repository. This repository contains my Python pra
 | 16  | Decorators         | Function decorators, *args, **kwargs, multiple decorators, functools.wraps, and practical decorators |
 | 17  | Regular Expressions | Regex basics, `re` module, searching, matching, finding, splitting, substitution, character classes, and quantifiers |
 | 18  | JSON                 | JSON data types, `dumps()`, `loads()`, `dump()`, `load()`, nested JSON, lists, dictionaries, updating, searching, and JSON exceptions |
+| 19 | Testing & Debugging | Debugging techniques, errors, assertions, `unittest`, test cases, exceptions, and test setup/cleanup |
+| 20 | Virtual Environments & pip | Virtual environments, package installation, `pip`, `requirements.txt`, dependency management, and `.gitignore` |
 ## 📂 Repository Structure
 
 
@@ -40,13 +42,15 @@ Python/
 ├── 09_Sets/
 ├── 10_Modules_Packages/
 ├── 11_File_Handling/
-└── 12_Exception_Handling/
-└── 13_OOP/
+├── 12_Exception_Handling/
+├── 13_OOP/
 ├── 14_Iterators/
-└── 15_Generators/
-└── 16_Decorators/
+├── 15_Generators/
+├── 16_Decorators/
 ├── 17_Regular_Expressions/
-└── 18_JSON/
+├── 18_JSON/
+├── 19_Testing_Debugging/
+└── 20_Virtual_Environments_Pip/
 ## 🛠️ Tools Used
 
 - Python
